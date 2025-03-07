@@ -27,7 +27,7 @@ Welcome to the **Stone Paper Scissor Game**! Play against the computer in this c
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/stone-paper-scissor.git
+   git clone https://github.com/avinashakas2007/stonePaper.git
    ```
 
 2. **Open `index.html`** in any modern web browser.
